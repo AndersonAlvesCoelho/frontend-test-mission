@@ -1,6 +1,6 @@
 ## Missão teste
 
-Esta é uma missão inicial para teste de suas habilidades Jedi com React e React native
+Esta é uma missão inicial para teste de suas habilidades Jedi com React
 
 ### Armas necessárias na missão
 
