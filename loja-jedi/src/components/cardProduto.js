@@ -1,5 +1,5 @@
 import React from "react";
-import Edit from "@material-ui/icons/Edit";
+import Add from "@material-ui/icons/Add";
 import Delete from "@material-ui/icons/Delete";
 
 function CardProduto() {
@@ -25,7 +25,7 @@ function CardProduto() {
                 type="button"
                 className="btn btn-sm btn-outline-secondary"
               >
-                <Edit/>
+                <Add/>
               </button>
               <button
                 type="button"
